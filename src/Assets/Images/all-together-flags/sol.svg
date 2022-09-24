@@ -1,0 +1,27 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SOL">
+<path id="Path" d="M63.0422 39.7412C58.7677 56.884 41.4029 67.3169 24.256 63.042C7.11622 58.768 -3.31789 41.4042 0.958563 24.2624C5.23102 7.11752 22.5959 -3.31637 39.7377 0.957586C56.8835 5.23154 67.3166 22.5974 63.0422 39.7412Z" fill="#827AD9"/>
+<g id="SOL_2">
+<rect id="Rectangle" x="14" y="14" width="37" height="37" fill="#D8D8D8" fill-opacity="0.01"/>
+<g id="solana-sol-logo">
+<path id="Path_2" d="M20.0113 40.1528C20.2346 39.9289 20.5416 39.7983 20.8672 39.7983H50.3935C50.933 39.7983 51.2028 40.4512 50.8214 40.8336L44.9887 46.6815C44.7654 46.9053 44.4584 47.0359 44.1328 47.0359H14.6065C14.067 47.0359 13.7972 46.383 14.1786 46.0006L20.0113 40.1528Z" fill="url(#paint0_linear_0_915)"/>
+<path id="Path_3" d="M20.0113 18.3188C20.2439 18.0949 20.5509 17.9644 20.8672 17.9644H50.3935C50.933 17.9644 51.2028 18.6172 50.8214 18.9996L44.9887 24.8475C44.7654 25.0713 44.4584 25.2019 44.1328 25.2019H14.6065C14.067 25.2019 13.7972 24.549 14.1786 24.1666L20.0113 18.3188Z" fill="url(#paint1_linear_0_915)"/>
+<path id="Path_4" d="M44.9887 29.1659C44.7654 28.9421 44.4584 28.8115 44.1328 28.8115H14.6065C14.067 28.8115 13.7972 29.4644 14.1786 29.8468L20.0113 35.6947C20.2346 35.9185 20.5416 36.0491 20.8672 36.0491H50.3935C50.933 36.0491 51.2028 35.3962 50.8214 35.0138L44.9887 29.1659Z" fill="url(#paint2_linear_0_915)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_915" x1="-52.7346" y1="12.4725" x2="-53.5242" y2="52.1061" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FFA3"/>
+<stop offset="1" stop-color="#DC1FFF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_915" x1="-61.6697" y1="7.79541" x2="-62.4593" y2="47.429" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FFA3"/>
+<stop offset="1" stop-color="#DC1FFF"/>
+</linearGradient>
+<linearGradient id="paint2_linear_0_915" x1="-57.2306" y1="10.1192" x2="-58.0203" y2="49.7528" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00FFA3"/>
+<stop offset="1" stop-color="#DC1FFF"/>
+</linearGradient>
+</defs>
+</svg>

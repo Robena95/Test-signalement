@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Assets/Fonts/Gilroy/Gilroy-Light.ttf');
+  src: url('Assets/Fonts/Gilroy/Gilroy-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Assets/Fonts/Gilroy/Gilroy-Regular.ttf');
+  src: url('Assets/Fonts/Gilroy/Gilroy-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Assets/Fonts/Gilroy/Gilroy-Medium.ttf');
+  src: url('Assets/Fonts/Gilroy/Gilroy-Medium.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Assets/Fonts/Gilroy/Gilroy-Bold.ttf');
+  src: url('Assets/Fonts/Gilroy/Gilroy-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gilroy';
+  src: url('Assets/Fonts/Gilroy/Gilroy-Heavy.ttf');
+  src: url('Assets/Fonts/Gilroy/Gilroy-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+// DM Sans
+@font-face {
+  font-family: 'DM Sans';
+  src: url('Assets/Fonts/DM_Sans/DMSans-Regular.ttf');
+  src: url('Assets/Fonts/Gilroy/Gilroy-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import '~antd/dist/antd.less';
+@import 'Assets/Fonts/beone/style.css';
+
+body {
+  font-family: 'Gilroy', sans-serif;
+  font-size: 12px;
+  background-color: #fff;
+}
+
+ul {
+  padding-left: 15px;
+  & > li::marker {
+    color: #e02b59;
+  }
+}
+
+.ant-divider {
+  opacity: 0.3;
+  border-top: 1px solid rgba(99, 137, 169, 0.7);
+}

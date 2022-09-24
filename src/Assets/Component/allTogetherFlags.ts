@@ -1,0 +1,10 @@
+export { default as BitcoinFlag } from '../Images/all-together-flags/bitcoin.svg';
+export { default as CanadaFlag } from '../Images/all-together-flags/canada.png';
+export { default as DollarFlag } from '../Images/all-together-flags/dollar.png';
+export { default as EthFlag } from '../Images/all-together-flags/eth.svg';
+export { default as TetherFlag } from '../Images/all-together-flags/tether.png';
+export { default as UeFlag } from '../Images/all-together-flags/ue.svg';
+export { default as UkFlag } from '../Images/all-together-flags/uk.png';
+export { default as UsFlag } from '../Images/all-together-flags/us.png';
+export { default as BinanceFlag } from '../Images/all-together-flags/binance.svg';
+export { default as SolFlag } from '../Images/all-together-flags/sol.svg';
